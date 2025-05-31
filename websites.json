@@ -18,5 +18,10 @@
     "link": "http://www.smashthestack.org",
     "description": "A series of wargames for security enthusiasts to learn about exploitation.",
     "warning": "Advanced content"
+  },
+  {
+    "link": "https://www.egirl.com/",
+    "description": "Weird website only saying the word \"egirl\"",
+    "warning": null
   }
 ]
