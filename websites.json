@@ -1,0 +1,22 @@
+[
+  {
+    "link": "https://www.cameronsworld.net",
+    "description": "A love letter to the Internet of old, full of GIFs and quirky designs.",
+    "warning": null
+  },
+  {
+    "link": "http://www.staggeringbeauty.com",
+    "description": "A weird interactive website with a surprising twist.",
+    "warning": "Flashing lights"
+  },
+  {
+    "link": "https://theuselessweb.com",
+    "description": "Takes you to a random, weird, or useless website with every click.",
+    "warning": null
+  },
+  {
+    "link": "http://www.smashthestack.org",
+    "description": "A series of wargames for security enthusiasts to learn about exploitation.",
+    "warning": "Advanced content"
+  }
+]
