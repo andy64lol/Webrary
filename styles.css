@@ -1,44 +1,53 @@
 body {
-  font-family: Arial, sans-serif;
-  background: #f4f4f4;
+  font-family: "Courier New", monospace;
+  background: url('https://www.transparenttextures.com/patterns/graphy.png'); /* 90s-style bg */
+  color: #0000cc;
   margin: 0;
   padding: 0;
 }
 
 .container {
-  max-width: 800px;
-  margin: 2rem auto;
-  background: #fff;
-  padding: 2rem;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  width: 90%;
+  margin: 1rem auto;
+  background: #ffffcc;
+  padding: 1rem;
+  border: 3px double #000;
 }
 
 h1 {
   text-align: center;
-  color: #333;
+  color: #ff0000;
+  background: #0000ff;
+  padding: 0.5rem;
+  font-size: 2rem;
+  text-transform: uppercase;
+  font-weight: bold;
+  border: 2px solid #ff0000;
 }
 
 .website {
-  border-bottom: 1px solid #ddd;
-  padding: 1rem 0;
-}
-
-.website:last-child {
-  border-bottom: none;
+  border: 2px dashed #0000cc;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  background: #ffffff;
 }
 
 .website a {
-  color: #007BFF;
-  font-size: 1.2rem;
-  text-decoration: none;
-}
-
-.website a:hover {
+  color: #ff00ff;
+  font-size: 1.1rem;
   text-decoration: underline;
 }
 
+.website a:hover {
+  background-color: yellow;
+}
+
 .warning {
-  color: red;
+  color: #ff0000;
   font-weight: bold;
+  font-size: 1.1rem;
+  background: #fff000;
+  padding: 0.25rem;
+  display: inline-block;
+  border: 1px solid #000;
 }
