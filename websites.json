@@ -21,7 +21,57 @@
   },
   {
     "link": "https://www.egirl.com/",
-    "description": "Weird website only saying the word \"egirl\"",
+    "description": "Weird website only saying the word \"egirl\".",
     "warning": null
+  },
+  {
+    "link": "https://www.heavensgate.com/",
+    "description": "Website of a now-dissolved cult named Heaven's Gate, which committed mass suicide in 1997.",
+    "warning": "Misleading information and cultist propaganda"
+  },
+  {
+    "link": "https://www.rotten.com",
+    "description": "One of the earliest shock sites, known for hosting graphic and morbid content.",
+    "warning": "Graphic images and disturbing content"
+  },
+  {
+    "link": "https://web.archive.org/web/20010429033230/http://www.stileproject.com/",
+    "description": "A notorious shock site blending explicit, violent, and unsettling content with blog-like updates.",
+    "warning": "Explicit and disturbing material"
+  },
+  {
+    "link": "https://www.mouchette.org",
+    "description": "An eerie interactive art project posing as the website of a fictional 13-year-old girl.",
+    "warning": "Unsettling themes and disturbing imagery"
+  },
+  {
+    "link": "https://www.crimescene.com",
+    "description": "A lifelike interactive crime simulation site that blurs fiction and reality.",
+    "warning": "Graphic fictional crime content"
+  },
+  {
+    "link": "https://web.archive.org/web/19990125001716/http://www.paranoia.com/",
+    "description": "An old free-speech hub that controversially hosted disturbing and fringe content.",
+    "warning": "Offensive and disturbing material"
+  },
+  {
+    "link": "https://web.archive.org/web/20041009201130/http://astalavista.box.sk/",
+    "description": "An infamous site for hacking tools, software cracks, and security exploits.",
+    "warning": "Potentially illegal and harmful content"
+  },
+  {
+    "link": "https://web.archive.org/web/20000815000000*/http://www.blairwitch.com/",
+    "description": "Creepy promotional website for The Blair Witch Project, presented as if the events were real.",
+    "warning": "Fiction presented as fact; may be unsettling"
+  },
+  {
+    "link": "https://web.archive.org/web/20000816020336/http://www.cthulhu.net/",
+    "description": "Mysterious site that simply read 'Dead but dreaming...' with no context.",
+    "warning": "Cryptic and potentially unsettling"
+  },
+  {
+    "link": "https://web.archive.org/web/20000815000000*/http://www.overkill.com/",
+    "description": "An obscure, creepy website with strange visuals and unclear purpose.",
+    "warning": "Disturbing imagery and disorienting layout"
   }
 ]
