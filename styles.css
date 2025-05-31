@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 2rem auto;
+  background: #fff;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+.website {
+  border-bottom: 1px solid #ddd;
+  padding: 1rem 0;
+}
+
+.website:last-child {
+  border-bottom: none;
+}
+
+.website a {
+  color: #007BFF;
+  font-size: 1.2rem;
+  text-decoration: none;
+}
+
+.website a:hover {
+  text-decoration: underline;
+}
+
+.warning {
+  color: red;
+  font-weight: bold;
+}
